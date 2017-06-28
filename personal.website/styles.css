@@ -1,0 +1,19 @@
+img {
+    width: 200px;
+}
+body {
+    text-align: center;
+    font-family: "Arvo";
+    color: white;
+}
+a: link {
+    color: white;
+}
+#easy {
+  width: 300px;
+  height: 300px;
+  border-radius: 150px;
+  border-color: black;
+  background-color: red; 
+    
+}

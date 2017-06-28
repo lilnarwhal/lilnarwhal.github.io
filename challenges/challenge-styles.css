@@ -1,0 +1,22 @@
+table, th, td {
+    border: 1px solid black;
+}
+img{
+   width: 300px
+}
+.row2 {
+    background-color: #ffc1ea;
+}
+.row3 {
+    background-color: #d8686f;
+}
+.list {
+    background-color: yellow;
+    text-align: center;
+}
+.day2 {
+    color: red;
+}
+a {
+    color: green;
+}
